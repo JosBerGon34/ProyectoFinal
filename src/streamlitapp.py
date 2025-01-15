@@ -30,7 +30,7 @@ Integración con otras herramientas: Conecta Streamlit con herramientas de visua
 Este es un punto de partida sólido. Puedes adaptarlo y ampliarlo según tus necesidades específicas y el nivel de complejidad que desees alcanzar.
 '''
 # Conexión a la base de datos (ajusta según tu configuración)
-conn = sqlite3.connect('mydatabase.db')
+conn = sqlite3.connect('tablas.db')
 
 # Función para crear tablas si no existen
 def create_tables():
