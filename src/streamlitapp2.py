@@ -4,7 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
 # Crear la base de datos y la tabla (si no existen)
-engine = create_engine('sqlite:///tablausuario.db')
+engine = create_engine('sqlite:///./src/tablausuario.db')
 Base = declarative_base()
 
 class User(Base):
