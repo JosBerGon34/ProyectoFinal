@@ -33,3 +33,5 @@ if submitted:
         db.add(new_user)
         db.commit()
         st.success("Datos guardados correctamente")
+        
+#Modelo base sin terminar.
