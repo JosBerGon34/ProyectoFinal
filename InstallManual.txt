@@ -19,6 +19,13 @@ pip install matplotlib
 pip install matplotlib-inline
 pip install numpy
 pip install beautifulsoup4
+pip install nbformat
+pip install plotly
+pip install selenium
+pip install webdriver-manager
+
+
+
 
 Versiones incorrectas para python 3.10.12
 jupyter-leaflet==0.19.2
