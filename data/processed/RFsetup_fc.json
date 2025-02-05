@@ -1,1 +1,0 @@
-{"k": 11, "resultados": {"mejores_features": ["gincdif", "polintr", "dscrgnd", "cntryfcz", "ppltrst_fc", "euftf_fc", "stfeco_fc", "stfgov_fc", "trstplt_fc", "imbgeco_fc", "rlgdgr_fc"], "accuracy": 0.3375, "precision": 0.3188747805356445, "recall": 0.3375, "f1": 0.3178780452443345, "auc": 0.5963822150406705}}
