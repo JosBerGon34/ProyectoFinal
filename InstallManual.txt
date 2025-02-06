@@ -24,7 +24,7 @@ pip install plotly
 pip install selenium
 pip install webdriver-manager
 pip install psycopg2-binary
-
+pip install pandas
 
 
 Versiones incorrectas para python 3.10.12
