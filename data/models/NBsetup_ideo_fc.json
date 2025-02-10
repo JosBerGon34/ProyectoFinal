@@ -1,1 +1,0 @@
-{"k": 12, "resultados": {"mejores_features": ["gincdif", "polintr", "dscrgnd", "inprdsc", "ccnthum", "ppltrst_fc", "stfeco_fc", "stfgov_fc", "trstplc_fc", "trstplt_fc", "atchctr_fc", "rlgdgr_fc"], "accuracy": 0.3047619047619048, "precision": 0.30872181886355116, "recall": 0.3047619047619048, "f1": 0.22914860464945355, "auc": 0.6226631393298059}, "target_variable": "ideo_fc"}
